@@ -63,6 +63,15 @@ https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/M
 
 自由，每个人都有权利去追求。尽管阻碍重重。
 
+总结一下顺序: 
+ 刷入国内8.x版本的底包-> 刷入8.x版本的Twry.->刷入10.X版本的海外版系统->通过TWRY刷入最新版的海外版系统.
+ ps: 这里最需要注意的是，刷入8.X版本的步骤如下: 
+ 1. 在TWRY清空所有数据(data)
+ 2. 在TWRY开启MTP模式， 用于把镜像包拉进手机
+ 3. 安装8.X的包， 安装完后不能重启， 回到第一步的界面，重新执行清除数据操作.
+ 切记这个步骤， 如不执行该操作， 则刷不进去， 会出现卡米卡FASTBOOT等问题.
+
+
 
 
 7.done.
